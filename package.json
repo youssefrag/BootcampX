@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/youssefrag/BootcampX/issues"
   },
-  "homepage": "https://github.com/youssefrag/BootcampX#readme"
+  "homepage": "https://github.com/youssefrag/BootcampX#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
 }
